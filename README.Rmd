@@ -32,7 +32,7 @@ _data_
 3. "users" (numeric class), a single explanatory variable. (Support for additional explanatory variables to be added in the future).
 
 _event_
-  - "event" is the date  must be supplied as a character string in the format "YYYY-mm-dd". This is the date of the intervention whose impact you wish to measure.
+  - "event" is the date of the intervention whose impact you wish to measure. This must be supplied as a character string in the format "YYYY-mm-dd".
 
 ## Function output
 
