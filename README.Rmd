@@ -4,7 +4,9 @@
 
 #### How this function works.
 
-This code is a simple tidy-up of the [R Causal Impact package](https://google.github.io/CausalImpact/CausalImpact.html) which is created and shared by Google. The Google package uses Bayesian structural time-series models to make a counterfactual prediction of a response variable and compare this to actual data, to determine the effect of a given event on this variable.
+This function helps answer the question "Did a given event have any impact on a target variable?". In this context, the target variable is likely to be conversion rate or number of conversions.
+
+This code was created to simplify execution of the [R Causal Impact package](https://google.github.io/CausalImpact/CausalImpact.html) which is created and shared by Google. The Google package uses Bayesian structural time-series models to make a counterfactual prediction of a response variable and compare this to actual data, to determine the effect of a given event on this variable.
 
 #### Package dependencies
 
