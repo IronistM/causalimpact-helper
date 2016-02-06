@@ -38,7 +38,7 @@ _event_
 
 ![Example Plot](plot.png)
 
-The function uses the time-series data prior to the event to train its prediction, then determines the effect of the intervention by comparing the actual post-event values of the response variable with the predicted values.
+The function uses the time-series data prior to the event to train its prediction. It then determines the effect of the intervention by comparing actual post-event values of the response variable with the predicted values.
 
 3 outputs are produced by the function:
 
